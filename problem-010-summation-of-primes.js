@@ -1,3 +1,4 @@
+// Problem 10: Summation of primes
 function isPrime(n) {
   if (n < 3) {
     return n > 1;
